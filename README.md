@@ -22,3 +22,6 @@ https://krish-storage-api-01.azurewebsites.net
 ## How to Run Locally
 pip install flask azure-storage-blob python-dotenv
 python app.py
+
+
+<img width="1010" height="591" alt="project3-storage-api drawio" src="https://github.com/user-attachments/assets/7ddf3750-8012-4171-89e2-50572a49a66a" />
