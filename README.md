@@ -4,6 +4,7 @@ using Azure Blob Storage.
 
 ## Live URL
 https://krish-storage-api-01.azurewebsites.net
+"Note: App may be stopped to manage free tier limits. Run locally using instructions below."
 
 ## Tech Stack
 - Python 3.10
